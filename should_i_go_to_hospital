@@ -38,7 +38,7 @@ function should_i_go_to_hospital_for_alcohol_poisoning:
     Do any of the following apply?
         Person is unconscious:
             return Call 911
-        Person is breathing less than 8 times a second:
+        Person is breathing less than 8 times a minute:
             return Call 911
         Person has uncontrolled vomiting:
             return Call 911
